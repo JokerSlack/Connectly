@@ -35,14 +35,14 @@ Feel free to adapt this description to fit the specific features and technologie
 Steps for **Connectly**
 
 ---
-*Front-end*
+**Front-end**
 
 - [ ] Login interface
 - [ ] Posts interface
 - [ ] Message page interface
 - [ ] Profile interface
 
-*Back-end*
+**Back-end**
 
 - [ ] Login
 - [ ] Register
@@ -51,7 +51,7 @@ Steps for **Connectly**
 - [ ] Change personal information
 - [ ] Posts configuration(photos and somethings like that)
 
-*Account*
+**Account**
 - [ ] Name/Surname
 - [ ] Email(verification of a email)
 - [ ] password(Need a security)
